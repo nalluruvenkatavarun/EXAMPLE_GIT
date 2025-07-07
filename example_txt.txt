@@ -7,8 +7,18 @@ hello varun
 
 
 in main branch  checking for commits 
+
+in first branch 
+
+second commit in first branch
+
+
+
+hello checking rebase 
+
+
+
 \
 
 
 changes in main 
-
